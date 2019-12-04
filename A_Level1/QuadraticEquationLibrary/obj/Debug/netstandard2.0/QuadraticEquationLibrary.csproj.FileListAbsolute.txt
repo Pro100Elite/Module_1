@@ -1,0 +1,8 @@
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\obj\Debug\netstandard2.0\QuadraticEquationLibrary.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\obj\Debug\netstandard2.0\QuadraticEquationLibrary.AssemblyInfoInputs.cache
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\obj\Debug\netstandard2.0\QuadraticEquationLibrary.AssemblyInfo.cs
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\bin\Debug\netstandard2.0\QuadraticEquationLibrary.deps.json
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\bin\Debug\netstandard2.0\QuadraticEquationLibrary.dll
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\bin\Debug\netstandard2.0\QuadraticEquationLibrary.pdb
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\obj\Debug\netstandard2.0\QuadraticEquationLibrary.dll
+C:\Users\Pro100Elite\source\repos\QuadraticEquationLibrary\obj\Debug\netstandard2.0\QuadraticEquationLibrary.pdb

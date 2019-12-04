@@ -1,0 +1,11 @@
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\bin\Debug\A_LevelWinF1.exe.config
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\bin\Debug\A_LevelWinF1.exe
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\bin\Debug\A_LevelWinF1.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.Form1.resources
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.Properties.Resources.resources
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.csproj.GenerateResource.cache
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.exe
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\bin\Debug\QuadraticEquationLibrary.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelWinF1\obj\Debug\A_LevelWinF1.csproj.CopyComplete

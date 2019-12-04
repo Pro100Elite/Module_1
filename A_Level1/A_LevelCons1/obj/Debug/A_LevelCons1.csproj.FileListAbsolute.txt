@@ -1,0 +1,8 @@
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\obj\Debug\A_LevelCons1.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\bin\Debug\A_LevelCons1.exe.config
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\bin\Debug\A_LevelCons1.exe
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\bin\Debug\A_LevelCons1.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\bin\Debug\QuadraticEquationLibrary.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\obj\Debug\A_LevelCons1.csproj.CopyComplete
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\obj\Debug\A_LevelCons1.exe
+C:\Users\Pro100Elite\source\repos\A_LevelCons1\obj\Debug\A_LevelCons1.pdb
