@@ -1,0 +1,9 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\bin\Debug\A_LevelLesson5.exe.config
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\bin\Debug\A_LevelLesson5.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\bin\Debug\A_LevelLesson5.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\obj\Debug\A_LevelLesson5.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\obj\Debug\A_LevelLesson5.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\obj\Debug\A_LevelLesson5.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\bin\Debug\MyLibraryArrays.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\bin\Debug\MyLibraryArrays.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\A_LevelLesson5\obj\Debug\A_LevelLesson5.csproj.CopyComplete

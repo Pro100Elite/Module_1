@@ -1,0 +1,8 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\bin\Debug\netstandard2.0\MyLibraryArrays.deps.json
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\bin\Debug\netstandard2.0\MyLibraryArrays.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\bin\Debug\netstandard2.0\MyLibraryArrays.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\obj\Debug\netstandard2.0\MyLibraryArrays.AssemblyInfoInputs.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\obj\Debug\netstandard2.0\MyLibraryArrays.AssemblyInfo.cs
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\obj\Debug\netstandard2.0\MyLibraryArrays.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\obj\Debug\netstandard2.0\MyLibraryArrays.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson5\MyLibraryArrays\obj\Debug\netstandard2.0\MyLibraryArrays.csprojAssemblyReference.cache
