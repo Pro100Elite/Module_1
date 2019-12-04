@@ -1,0 +1,9 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\bin\Debug\ConsoleFB1.exe.config
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\bin\Debug\ConsoleFB1.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\bin\Debug\ConsoleFB1.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\bin\Debug\LibraryForLesson2.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\bin\Debug\LibraryForLesson2.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\obj\Debug\ConsoleFB1.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\obj\Debug\ConsoleFB1.csproj.CopyComplete
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\obj\Debug\ConsoleFB1.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleFB1\obj\Debug\ConsoleFB1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\bin\Debug\netstandard2.0\LibraryForLesson2.deps.json
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\bin\Debug\netstandard2.0\LibraryForLesson2.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\bin\Debug\netstandard2.0\LibraryForLesson2.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\obj\Debug\netstandard2.0\LibraryForLesson2.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\obj\Debug\netstandard2.0\LibraryForLesson2.AssemblyInfoInputs.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\obj\Debug\netstandard2.0\LibraryForLesson2.AssemblyInfo.cs
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\obj\Debug\netstandard2.0\LibraryForLesson2.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\LibraryForLesson2\obj\Debug\netstandard2.0\LibraryForLesson2.pdb

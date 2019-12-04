@@ -1,0 +1,9 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\bin\Debug\ConsoleTraining.exe.config
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\bin\Debug\ConsoleTraining.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\bin\Debug\ConsoleTraining.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\bin\Debug\LibraryForLesson2.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\bin\Debug\LibraryForLesson2.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\obj\Debug\ConsoleTraining.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\obj\Debug\ConsoleTraining.csproj.CopyComplete
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\obj\Debug\ConsoleTraining.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson2\ConsoleTraining\obj\Debug\ConsoleTraining.pdb
