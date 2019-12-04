@@ -1,0 +1,8 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\bin\Debug\netstandard2.0\KettlebellLib.deps.json
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\bin\Debug\netstandard2.0\KettlebellLib.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\bin\Debug\netstandard2.0\KettlebellLib.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\obj\Debug\netstandard2.0\KettlebellLib.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\obj\Debug\netstandard2.0\KettlebellLib.AssemblyInfoInputs.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\obj\Debug\netstandard2.0\KettlebellLib.AssemblyInfo.cs
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\obj\Debug\netstandard2.0\KettlebellLib.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\KettlebellLib\obj\Debug\netstandard2.0\KettlebellLib.pdb

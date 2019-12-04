@@ -1,0 +1,9 @@
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\bin\Debug\A_LevelLesson3.exe.config
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\bin\Debug\A_LevelLesson3.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\bin\Debug\A_LevelLesson3.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\bin\Debug\KettlebellLib.dll
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\bin\Debug\KettlebellLib.pdb
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\obj\Debug\A_LevelLesson3.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\obj\Debug\A_LevelLesson3.csproj.CopyComplete
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\obj\Debug\A_LevelLesson3.exe
+C:\Users\Pro100Elite\source\repos\A_LevelLesson3\A_LevelLesson3\obj\Debug\A_LevelLesson3.pdb
