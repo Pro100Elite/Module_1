@@ -1,0 +1,9 @@
+C:\Users\Pro100Elite\source\repos\WindowsForms4\bin\Release\WindowsForms4.exe.config
+C:\Users\Pro100Elite\source\repos\WindowsForms4\bin\Release\WindowsForms4.exe
+C:\Users\Pro100Elite\source\repos\WindowsForms4\bin\Release\WindowsForms4.pdb
+C:\Users\Pro100Elite\source\repos\WindowsForms4\obj\Release\WindowsForms4.csprojAssemblyReference.cache
+C:\Users\Pro100Elite\source\repos\WindowsForms4\obj\Release\WindowsForms4.Form1.resources
+C:\Users\Pro100Elite\source\repos\WindowsForms4\obj\Release\WindowsForms4.Properties.Resources.resources
+C:\Users\Pro100Elite\source\repos\WindowsForms4\obj\Release\WindowsForms4.csproj.GenerateResource.cache
+C:\Users\Pro100Elite\source\repos\WindowsForms4\obj\Release\WindowsForms4.exe
+C:\Users\Pro100Elite\source\repos\WindowsForms4\obj\Release\WindowsForms4.pdb
