@@ -11,6 +11,7 @@ namespace A_LevelCons1
 
         static void Main(string[] args)
         {
+            Console.Write("Test for GitHub!!!!");
             ConsolStart();
             Dis.Decision();
             ConsolWr();
