@@ -20,9 +20,11 @@ namespace mod1
             while (isMenu)
             {
                 Console.WriteLine("Select num to\n 1 - Add\n 2 - Show\n 3 - Delete\n 4 - Exit");
+                
                 switch (Console.ReadKey().Key)
                 {
                     case ConsoleKey.D1:
+                        // много кода ниже выноси в метод 
                         Console.WriteLine("Input Name = ");
                         string name = Console.ReadLine();
                         int age = ConsoleReadInt("Input Age = ");
@@ -34,6 +36,7 @@ namespace mod1
                         {
                             case ConsoleKey.D1:
                                 Console.Clear();
+                                // вынеси позиции в енам
                                 position = "Back Dev";
                                 break;
 
@@ -69,6 +72,7 @@ namespace mod1
                         break;
 
                     case ConsoleKey.D2:
+                            // много кода ниже выноси в метод 
                         Console.Clear();
                         double outHsHg = 0f;
                         double outHsPl = 0f;
@@ -94,8 +98,10 @@ namespace mod1
                         break;
 
                     case ConsoleKey.D3:
+                            // много кода ниже выноси в метод 
                         Console.Clear();
                         Console.WriteLine("Input number Order");
+                        // магические числа код должен быть самодокументируемым что это за 1 - 1 ... 
                         int index = Convert.ToInt32(Console.ReadLine()) - 1;
 
                         if (index + 1 <= ListCreator.Acc.Count())
