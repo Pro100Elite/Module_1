@@ -5,6 +5,7 @@ namespace MobLibrary1
 {
     public class TxtMethods
     {
+        // добрый вечер папки бин у меня нет в git Она тоже не должна попадать . Почитай почему. путь задаешь не правильно вынеси его хотябы в апп конфиг
         static string writePath = @"..\..\bin\Debug\TXT.txt";
 
         public static string ReadTxT()
@@ -41,8 +42,7 @@ namespace MobLibrary1
         public static void ReCreateTxT()
         {
             using (FileStream file = new FileStream(writePath, FileMode.Create))
-            {
-
+            {// эмммммм ты думаешт это делается так ?  '.
             };
         }
     }
