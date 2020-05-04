@@ -3,22 +3,21 @@ using A_Level;
 
 namespace A_LevelCons1
 {
-    class Program
+    public class Program
     {
         static double tryNum;
         static bool bl = true;
-        static DiscriminantAndSqrt1 Dis;
+        public static DiscriminantAndSqrt1 Dis;
 
         static void Main(string[] args)
         {
-            Console.Write("Test for GitHub!!!!");
             ConsolStart();
             Dis.Decision();
             ConsolWr();
             Console.ReadKey();
         }
 
-        static void ConsolStart()
+        public static void ConsolStart()
         {
             do
             {
@@ -68,7 +67,7 @@ namespace A_LevelCons1
             while (!bl);
         }
 
-        static void ConsolWr()
+        public static void ConsolWr()
         {
             if (Dis.d < 0)
             {
